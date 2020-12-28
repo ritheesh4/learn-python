@@ -21,5 +21,14 @@
 
 
 # for loop
-for i in [2,1,5]:
-    print(i)
+# for i in [2,1,5]:
+#     print(i)
+
+#fore loop
+# smallest = None
+# print("Before:", smallest)
+# for itervar in [3, 41, 12, 9, 74, 15]:
+#     if smallest is None or itervar < smallest:
+#         smallest = itervar
+#     print("Loop:", itervar, smallest)
+# print("Smallest:", smallest)
