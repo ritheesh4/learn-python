@@ -32,3 +32,25 @@
 #         smallest = itervar
 #     print("Loop:", itervar, smallest)
 # print("Smallest:", smallest)
+
+
+# for n in "banaana":
+#     print(n)
+
+
+# word = "nanana"
+# i = word.find("na")
+# print(i)
+
+
+#when should use break in for loop example
+# for letter in 'Ritheesh':
+#     if letter == 't':
+#         break
+#     print 'current Letter:', letter
+
+#continue statement
+for letter in 'Python':
+    if letter == 'h':
+        continue
+    print 'Current Letter :',letter
